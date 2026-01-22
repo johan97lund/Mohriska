@@ -1,0 +1,6 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#0C1014"/>
+  <rect x="70" y="110" width="760" height="980" rx="40" fill="#B24A7A" fill-opacity="0.12" stroke="#B24A7A" stroke-opacity="0.4" stroke-width="2"/>
+  <text x="100" y="250" fill="#FCF6EA" font-size="64" font-family="Space Grotesk, Arial" letter-spacing="8">MONOLITH</text>
+  <text x="100" y="330" fill="#FCF6EA" fill-opacity="0.6" font-size="28" font-family="Inter, Arial" letter-spacing="6">SERIES</text>
+</svg>

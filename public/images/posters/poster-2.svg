@@ -1,0 +1,7 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#0C1014"/>
+  <rect x="60" y="80" width="780" height="1040" rx="40" fill="#B24A7A" fill-opacity="0.18" stroke="#B24A7A" stroke-opacity="0.5" stroke-width="2"/>
+  <text x="90" y="220" fill="#FCF6EA" font-size="70" font-family="Space Grotesk, Arial" letter-spacing="10">SIGNE</text>
+  <text x="90" y="320" fill="#FCF6EA" fill-opacity="0.7" font-size="30" font-family="Inter, Arial" letter-spacing="6">NOVEMBER</text>
+  <text x="90" y="1040" fill="#FCF6EA" fill-opacity="0.7" font-size="28" font-family="Inter, Arial" letter-spacing="6">MOHRISKA</text>
+</svg>

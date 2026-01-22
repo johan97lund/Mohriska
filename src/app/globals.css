@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-background text-text font-body antialiased;
+}
+
+::selection {
+  background: rgba(244, 158, 15, 0.3);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid rgba(244, 158, 15, 0.8);
+  outline-offset: 2px;
+}
